@@ -5,5 +5,6 @@
 - Fabricio Herrera Rodriguez (2023097390)
 
 ### Estado del proyecto:
+Excelente, no faltan aspectos del proyecto
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
